@@ -1,0 +1,15 @@
+D:\Projects\Csharp\JJson練習\JSONS\JSONS\obj\Debug\netcoreapp3.1\JSONS.csprojAssemblyReference.cache
+D:\Projects\Csharp\JJson練習\JSONS\JSONS\obj\Debug\netcoreapp3.1\JSONS.AssemblyInfoInputs.cache
+D:\Projects\Csharp\JJson練習\JSONS\JSONS\obj\Debug\netcoreapp3.1\JSONS.AssemblyInfo.cs
+D:\Projects\Csharp\JJson練習\JSONS\JSONS\obj\Debug\netcoreapp3.1\JSONS.csproj.CoreCompileInputs.cache
+D:\Projects\Csharp\JJson練習\JSONS\JSONS\bin\Debug\netcoreapp3.1\JSONS.exe
+D:\Projects\Csharp\JJson練習\JSONS\JSONS\bin\Debug\netcoreapp3.1\JSONS.deps.json
+D:\Projects\Csharp\JJson練習\JSONS\JSONS\bin\Debug\netcoreapp3.1\JSONS.runtimeconfig.json
+D:\Projects\Csharp\JJson練習\JSONS\JSONS\bin\Debug\netcoreapp3.1\JSONS.runtimeconfig.dev.json
+D:\Projects\Csharp\JJson練習\JSONS\JSONS\bin\Debug\netcoreapp3.1\JSONS.dll
+D:\Projects\Csharp\JJson練習\JSONS\JSONS\bin\Debug\netcoreapp3.1\JSONS.pdb
+D:\Projects\Csharp\JJson練習\JSONS\JSONS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\Csharp\JJson練習\JSONS\JSONS\obj\Debug\netcoreapp3.1\JSONS.csproj.CopyComplete
+D:\Projects\Csharp\JJson練習\JSONS\JSONS\obj\Debug\netcoreapp3.1\JSONS.dll
+D:\Projects\Csharp\JJson練習\JSONS\JSONS\obj\Debug\netcoreapp3.1\JSONS.pdb
+D:\Projects\Csharp\JJson練習\JSONS\JSONS\obj\Debug\netcoreapp3.1\JSONS.genruntimeconfig.cache
