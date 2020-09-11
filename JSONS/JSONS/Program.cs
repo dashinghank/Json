@@ -23,12 +23,8 @@ namespace JSONS
            */
             HttpRequestTool tool = new HttpRequestTool();
             string v = tool.Post("http://175.98.160.67/vuewstest/chat/GetUserInfo", new { userId = "Player001" });
-            string t = tool.Post("http://175.98.160.67/vuewstest/chat/GetTableInfo", new { otherUserId = "Player002" });
-
-           
-
             GetUserInfo user = JsonConvert.DeserializeObject<GetUserInfo>(v);
-            
+
         }
 
         class UserList
